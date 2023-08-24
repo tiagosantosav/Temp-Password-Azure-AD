@@ -6,6 +6,6 @@ To assign a common temporary password to all new users, run the following comman
 
 In the next comand, you will set the new temp passorwd for new user in tenant.
 
- $PasswordProfile.Password = "<<enter-a-secure-password-you-will-remember>>"
+ $PasswordProfile.Password = "xxxxxxxxxxx"
 
 That's it guys!!
